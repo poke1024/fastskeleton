@@ -1,0 +1,10 @@
+# for demo app
+pyside2>=5.14.2.1
+pillow>=7.1.2
+shapely>=1.7.0
+
+# for skeleton.py
+numba>=0.49.1
+scipy>=1.4.1
+scikit-image>=0.17.1
+networkx>=2.4
